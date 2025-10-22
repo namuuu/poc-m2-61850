@@ -1,0 +1,23 @@
+{
+  "name": "poc-m2-61850",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/namuuu/poc-m2-61850#readme",
+  "bugs": {
+    "url": "https://github.com/namuuu/poc-m2-61850/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/namuuu/poc-m2-61850.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@amigo9090/ih-libiec61850-node": "^1.0.27"
+  }
+}
