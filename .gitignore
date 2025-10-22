@@ -10,3 +10,4 @@ lerna-debug.log*
 .vscode/
 
 # Node modules
+node_modules/
